@@ -1,5 +1,4 @@
-<img align ="left" src="https://komarev.com/ghpvc/?username=saeedmosavyzadeh&label=Profile%20Visit&color=0e75b6&style=flat" alt="basemax"><br>
-
+<img align ="right" src="https://komarev.com/ghpvc/?username=saeedmosavyzadeh&label=Profile%20Visit&color=0e75b6&style=flat" alt="basemax">
 ### Hi there, Im Saeed Mosavyzadeh (:  
   
   I'm a Fullstack Developer 💻,  
